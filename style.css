@@ -1,5 +1,9 @@
 * {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;   
+}
+
+body {
+    margin: 0;
 }
 
 .nav {
@@ -47,4 +51,5 @@ button {
     border: 5px solid black;
     color: #fff;
     box-shadow: 4px 4px #000 ;
+    border-radius: 15px;
 }
